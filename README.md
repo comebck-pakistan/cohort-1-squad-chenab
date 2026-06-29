@@ -11,37 +11,38 @@
 - Aaima Farrukh
 - Muhammad Zain Ehtisham
 
+**GitHub usernames:**
+
+- [@younassadat](https://github.com/younassadat)
+- [@Ehtisham894](https://github.com/Ehtisham894)
+- [@AaimaFarrukh](https://github.com/AaimaFarrukh)
+- [@Smbj082001](https://github.com/Smbj082001)
+
 ---
 
 ## 💡 Our Idea
 
-Our squad is building from **one** of the ten ideas in the
-[Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). The
-idea is a starting line, not a spec — our job is to **narrow it** to one specific user,
-one painful problem, and one small thing we can ship in 8 weeks.
+Our squad picked **[Idea 3 — The Shoebox-to-Books Bookkeeper](https://github.com/Comebck-Pakistan/cohort-1-product-challenge#idea-3--the-shoebox-to-books-bookkeeper)** from the [Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). Below are our ideation-stage validation answers, reproduced exactly as we submitted them.
 
-**Pick one of the ten ideas, then delete the rest of this list:**
+### One specific user
 
-1. The Small-Business Brain (WhatsApp-first)
-2. The Urdu-First Study Coach
-3. The Shoebox-to-Books Bookkeeper
-4. The Freelancer's Co-Pilot
-5. The Always-On Front Desk (Voice/WhatsApp Agent)
-6. The Farmer's Advisor in Your Pocket
-7. The SME Paperwork Generator
-8. The Social-Commerce Support Agent
-9. The Fair First-Round Recruiter
-10. The Public-Services Navigator
+A solo seller in Lahore or Islamabad running a clothing, jewelry, or cosmetics business entirely through Instagram DMs and WhatsApp, processing 30–80 orders a month with no system to track who has paid or what her monthly profit is.
 
-### 📌 Our pick
+### The painful problem
 
-> _Fill this in as a squad._
+They track every payment from memory and every order through WhatsApp chat history. At the end of the month they have no idea if they made a profit, and they regularly lose money to customers who never paid because they forgot to follow up. Existing tools like QuickBooks require accounting knowledge they don't have and are in English. The pain costs their real money every single month.
 
-- **Idea we picked:** _#__ — ____________________________________________
-- **One specific user:** _______________________________________________
-- **The painful problem:** _____________________________________________
-- **Our 8-week wedge (the one small thing we'll ship):** _______________
-- **The one number that proves people want it:** _______________________
+### Our 8-week wedge
+
+A WhatsApp-based AI agent that reads forwarded invoice screenshots and receipt photos, maintains a live ledger, and tells the seller exactly who owes their money and what they earned this month: in plain Urdu.
+
+### The one number that proves people want it
+
+5 sellers who forward their real WhatsApp invoices through it get a monthly summary back and say, "Haan, yeh sahi hai," confirming the numbers are accurate enough to trust.
+
+### Why we picked this idea
+
+We can physically reach our users today: Instagram and WhatsApp sellers are findable in minutes by searching any product hashtag. We ran a survey in Week 1 and got 7 real responses: 71% track payments from memory, 57% don't know their monthly profit, and 5 people left their WhatsApp number asking for early access. The problem is daily; the user is reachable, and the market has no serious competitor built for Pakistan yet.
 
 ---
 
